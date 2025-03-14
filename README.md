@@ -26,8 +26,7 @@ View the optimal layout for the interface depending on their device's screen siz
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [bento-grid]( https://brownsonjoy1811.github.io/bento-grid/)
 
 ## My Process
 
